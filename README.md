@@ -62,6 +62,9 @@ Event Listener digunakan untuk menangani interaksi pengguna terhadap tombol Simp
 
 Method actionPerformed(ActionEvent e) di-override untuk menentukan tindakan berdasarkan tombol yang ditekan oleh pengguna.
 
+## 3. Struktur Repository
+
+```text
 Latihan_GUI_F1D02410073/
 │
 ├── Main.java
@@ -70,3 +73,4 @@ Latihan_GUI_F1D02410073/
 └── screenshot/
     ├── tampilanAwal.png
     └── hasilPengujian.png
+```
