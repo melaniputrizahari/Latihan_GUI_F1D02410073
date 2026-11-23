@@ -1,4 +1,4 @@
-## Identitas Project
+##
 - Mata Kuliah: Pemrograman Berorientasi Objek (PBO)
 - Nama Aplikasi: Formulir Pendaftaran Mahasiswa
 
