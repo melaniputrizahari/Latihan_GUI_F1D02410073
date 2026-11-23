@@ -1,6 +1,5 @@
-##
-- Mata Kuliah: Pemrograman Berorientasi Objek (PBO)
-- Nama Aplikasi: Formulir Pendaftaran Mahasiswa
+## Mata Kuliah: Pemrograman Berorientasi Objek (PBO)
+## Nama Aplikasi: Formulir Pendaftaran Mahasiswa
 
 ## 1. Deskripsi Aplikasi
 Aplikasi Formulir Pendaftaran Mahasiswa merupakan program berbasis Graphical User Interface (GUI)yang dibuat menggunakan Java Swing. Aplikasi ini digunakan untuk memasukkan NIM dan
